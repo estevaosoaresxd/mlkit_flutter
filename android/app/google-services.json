@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199067201252",
+    "project_id": "ml-kit-project-to-test",
+    "storage_bucket": "ml-kit-project-to-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199067201252:android:4f39da819576f104d1c6f1",
+        "android_client_info": {
+          "package_name": "br.com.bloc.course.ml_kit_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199067201252-8esdthvlqleb4mtn4ksgipo7bqa4rdss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR4ovHkJydOTHA-wOEbR_bvJ1IvFpeFDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199067201252-8esdthvlqleb4mtn4ksgipo7bqa4rdss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
